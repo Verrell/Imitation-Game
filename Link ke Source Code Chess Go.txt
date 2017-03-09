@@ -1,3 +1,6 @@
-﻿Link ke Source Code Chess Go
-fuego.sourceforge.net
+Link ke Source Code Chess Go
+
 https://github.com/pasky/pachi
+http://ftp.gnu.org/gnu/gnugo/
+https://sourceforge.net/projects/fuego/
+https://github.com/waltheri/go-libraries
